@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T01:16:33.284Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.1.0" etag="j3b8fa-Di8IObY4Ju83m" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T01:47:09.462Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="_uFpyuDOmUcwEoKM7SeC" version="21.1.0" type="github">
   <diagram name="Page-1" id="Je0AldZPcqReI0aS4hjS">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uDGIG_SQnXnqYR5ADsma-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="180" width="460" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="uDGIG_SQnXnqYR5ADsma-2" value="start button" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="390" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uDGIG_SQnXnqYR5ADsma-3" value="tutorial button" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="430" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="uDGIG_SQnXnqYR5ADsma-4" value="Title" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="210" width="250" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
